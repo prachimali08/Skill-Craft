@@ -1,2 +1,1 @@
-# Skill-Craft-Technology 
-Population Task 1 
+As an Intern, I have created and completed in 8-10 days in Jupyter Lab as per the task of Skillcraft Technolgy in DATA SCIENCE ----TASK 1. Task : Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
